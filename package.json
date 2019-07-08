@@ -1,0 +1,15 @@
+{
+  "name": "tscode_runner_component",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "ace-builds": "^1.4.5",
+    "ace-code-editor": "^1.2.3",
+    "lit-element": "^2.2.0",
+    "lit-html": "^1.1.0",
+    "typescript": "^3.5.2"
+  }
+}
