@@ -16,7 +16,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 <!-- ### Removed -->
 <!-- ### Fixed -->
 
-## [1.0.1] - 2019-05-20
+## [1.1.1] - 2019-07-09
+
+### Changed
+* `render` and `shady-render` now both accept any value that is renderable by `NodePart`. ([#910](https://github.com/Polymer/lit-html/issues/910))
+
+## [1.1.0] - 2019-05-20
 
 ### Changed
 * Many small performance enhancements.
